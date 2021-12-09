@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to bottom, #66ff99 0%, #66ffff 100%);
+
+}
+
+.header_img{
+   border: 2px;
+   size: 100px;
+}
